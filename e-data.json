@@ -4,7 +4,7 @@
 	"features":[
 		{
 			"name":	"Vegan",
-			"rating":"3.0",
+			"rating":"3.1",
 			"dishes":[
 				"Roasted Vegetable & Avocado",
 				"Farmers Slaw Reuben"
@@ -12,9 +12,30 @@
 		},
 		{
 			"name":	"Gluten Free",
-			"rating":"1.0",
+			"rating":"2.6",
 			"dishes":[
 				"Shrimp & Grits"
+			]
+		},
+		{
+			"name":	"Ketogenic",
+			"rating":"3.4",
+			"dishes":[
+				"Steak & Eggs", "Naked Burger"
+			]
+		},
+		{
+			"name":	"Jain",
+			"rating":"3.9",
+			"dishes":[
+				"Artichoke Pizza", "Tomato Soup"
+			]
+		},
+		{
+			"name":	"Diabetic Friendly",
+			"rating":"4.6",
+			"dishes":[
+				"Chicken Salad", "Asparagus & Pea Soup"
 			]
 		}
 	]

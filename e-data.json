@@ -1,0 +1,21 @@
+{
+	"zomato":		"16872529",
+	"yelp":			"VA8aPObRynlwR1TGzbzraQ",
+	"features":[
+		{
+			"name":	"Vegan",
+			"rating":"3.0",
+			"dishes":[
+				"Roasted Vegetable & Avocado",
+				"Farmers Slaw Reuben"
+			]
+		},
+		{
+			"name":	"Gluten Free",
+			"rating":"1.0",
+			"dishes":[
+				"Shrimp & Grits"
+			]
+		}
+	]
+}
